@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Partidas do Brasileirão Série A</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h1 { text-align: center; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ccc; padding: 8px; text-align: center; }
+        th { background-color: #f4f4f4; }
+    </style>
+</head>
+<body>
+    <h1>Calendário de Partidas - Brasileirão Série A</h1>
+    <table id="tabela-partidas">
+        <thead>
+            <tr>
+                <th>Data</th>
+                <th>Horário</th>
+                <th>Partida</th>
+                <th>Transmissão</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <script>
+        async function carregarPartidas() {
+            const response = await fetch('partidas_brasileirao_corrigido.json');
+            const dados = await response.json();
+            const tbody = document.querySelector('#tabela-partidas tbody');
+
+            for (const data in dados) {
+                dados[data].forEach(partida => {
+                    const tr = document.createElement('tr');
+                    tr.innerHTML = `
+                        <td>${data}</td>
+                        <td>${partida['horário']}</td>
+                        <td>${partida['partida']}</td>
+                        <td>${partida['transmissão']}</td>
+                    `;
+                    tbody.appendChild(tr);
+                });
+            }
+        }
+
+        carregarPartidas();
+    </script>
+</body>
+</html>

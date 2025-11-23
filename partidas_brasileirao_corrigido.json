@@ -1,0 +1,211 @@
+{
+    "23/11": [
+        {
+            "partida": "São Paulo x Juventude",
+            "horário": "16h00",
+            "transmissão": "Globo, Premiere"
+        },
+        {
+            "partida": "Bahia x Vasco da Gama",
+            "horário": "16h00",
+            "transmissão": "Globo, Premiere"
+        },
+        {
+            "partida": "Sport x Vitória",
+            "horário": "18h30",
+            "transmissão": "Premiere"
+        },
+        {
+            "partida": "Cruzeiro x Corinthians",
+            "horário": "20h30",
+            "transmissão": "Amazon"
+        }
+    ],
+    "24/11": [
+        {
+            "partida": "Mirassol x Ceará",
+            "horário": "19h00",
+            "transmissão": "Premiere"
+        },
+        {
+            "partida": "Internacional x Santos",
+            "horário": "21h00",
+            "transmissão": "SporTV, Premiere"
+        }
+    ],
+    "25/11": [
+        {
+            "partida": "Atlético-MG x Flamengo",
+            "horário": "21h30",
+            "transmissão": "Globo, Premiere"
+        },
+        {
+            "partida": "Grêmio x Palmeiras",
+            "horário": "21h30",
+            "transmissão": "Globo, Premiere"
+        }
+    ],
+    "26/11": [
+        {
+            "partida": "Red Bull Bragantino x Fortaleza",
+            "horário": "19h00",
+            "transmissão": "Premiere"
+        }
+    ],
+    "27/11": [
+        {
+            "partida": "Fluminense x São Paulo",
+            "horário": "20h30",
+            "transmissão": "SporTV, Premiere"
+        }
+    ],
+    "28/11": [
+        {
+            "partida": "Juventude x Bahia",
+            "horário": "19h00",
+            "transmissão": "Premiere"
+        },
+        {
+            "partida": "Vasco da Gama x Internacional",
+            "horário": "19h30",
+            "transmissão": "Amazon"
+        },
+        {
+            "partida": "Santos x Sport",
+            "horário": "21h30",
+            "transmissão": "SporTV, Amazon"
+        }
+    ],
+    "29/11": [
+        {
+            "partida": "Vitória x Mirassol",
+            "horário": "16h00",
+            "transmissão": "Premiere"
+        },
+        {
+            "partida": "Ceará x Cruzeiro",
+            "horário": "20h30",
+            "transmissão": "Record, YouTube, Premiere"
+        }
+    ],
+    "30/11": [
+        {
+            "partida": "Corinthians x Botafogo",
+            "horário": "16h00",
+            "transmissão": "Globo, Premiere"
+        },
+        {
+            "partida": "Fortaleza x Atlético-MG",
+            "horário": "18h30",
+            "transmissão": "YouTube, Premiere"
+        }
+    ],
+    "02/12": [
+        {
+            "partida": "Vasco da Gama x Mirassol",
+            "horário": "19h00",
+            "transmissão": "sem informações"
+        },
+        {
+            "partida": "Grêmio x Fluminense",
+            "horário": "21h30",
+            "transmissão": "sem informações"
+        }
+    ],
+    "03/12": [
+        {
+            "partida": "Fortaleza x Corinthians",
+            "horário": "19h00",
+            "transmissão": "sem informações"
+        },
+        {
+            "partida": "RedBull Bragantino x Vitória",
+            "horário": "19h00",
+            "transmissão": "sem informações"
+        },
+        {
+            "partida": "Juventude x Santos",
+            "horário": "19h30",
+            "transmissão": "sem informações"
+        },
+        {
+            "partida": "Bahia x Recife",
+            "horário": "20h00",
+            "transmissão": "sem informações"
+        },
+        {
+            "partida": "São Paulo x Internacional",
+            "horário": "20h00",
+            "transmissão": "sem informações"
+        },
+        {
+            "partida": "Flamengo x Ceará",
+            "horário": "21h30",
+            "transmissão": "sem informações"
+        },
+        {
+            "partida": "Atlético Mineiro x Palmeiras",
+            "horário": "21h30",
+            "transmissão": "sem informações"
+        }
+    ],
+    "04/12": [
+        {
+            "partida": "Cruzeiro x Botafogo",
+            "horário": "19h30",
+            "transmissão": "sem informações"
+        }
+    ],
+    "07/12": [
+        {
+            "partida": "Atlético-MG x Vasco da Gama",
+            "horário": "16h00",
+            "transmissão": "sem informações"
+        },
+        {
+            "partida": "Botafogo x Fortaleza",
+            "horário": "16h00",
+            "transmissão": "sem informações"
+        },
+        {
+            "partida": "Santos x Cruzeiro",
+            "horário": "16h00",
+            "transmissão": "sem informações"
+        },
+        {
+            "partida": "Recife x Grêmio",
+            "horário": "16h00",
+            "transmissão": "sem informações"
+        },
+        {
+            "partida": "Corinthians x Juventude",
+            "horário": "16h00",
+            "transmissão": "sem informações"
+        },
+        {
+            "partida": "Vitória x São Paulo",
+            "horário": "16h00",
+            "transmissão": "sem informações"
+        },
+        {
+            "partida": "Ceará x Palmeiras",
+            "horário": "16h00",
+            "transmissão": "sem informações"
+        },
+        {
+            "partida": "Fluminense x Bahia",
+            "horário": "16h00",
+            "transmissão": "sem informações"
+        },
+        {
+            "partida": "Internacional x RedBull Bragantino",
+            "horário": "16h00",
+            "transmissão": "sem informações"
+        },
+        {
+            "partida": "Mirassol x Flamengo",
+            "horário": "16h00",
+            "transmissão": "sem informações"
+        }
+    ]
+}
