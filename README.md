@@ -1,4 +1,5 @@
 # DataFut – Agente Inteligente para Partidas do Brasileirão Série A
+Desafio fruto do curso da Microsoft em parceria com WoMakersCode de estudo sobre Microsoft Azure Foundry.
 
 ## 📌 Objetivo do Projeto
 O **DataFut** foi criado para resolver uma dor comum: a dificuldade de acompanhar as transmissões dos jogos do Campeonato Brasileiro Série A, devido à fragmentação dos meios de transmissão (TV aberta, canais pagos, streaming).
@@ -16,6 +17,8 @@ Este projeto reúne:
 - **Azure CLI** (para gerar SAS Token e gerenciar recursos).
 - **GitHub** (para versionamento e documentação).
 - **HTML + JavaScript** (para exibir os dados do JSON).
+- **Microsoft Paint** (para formatação de imagens de printscreen)
+- **Visual Studio Code** (para criação e visualização dos códigos HTML e JSON)
 
 ---
 
