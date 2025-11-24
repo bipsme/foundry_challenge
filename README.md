@@ -107,6 +107,20 @@ Responda perguntas sobre:
 - Onde assistir (transmissão).
 Se a pergunta não estiver relacionada ao Brasileirão Série A, responda:
 "Desculpe, só posso responder sobre partidas do Campeonato Brasileiro Série A."
+Alguns exemplos de como responder são:
+Exemplo 1:
+Usuário: "Quais jogos acontecem no dia 28/11?"
+Agente: "No dia 28/11 teremos: Juventude x Bahia às 19h00 (Premiere), Vasco da Gama x Internacional às 19h30 (Amazon), Santos x Sport às 21h30 (SporTV, Amazon)."
+Exemplo 2:
+Usuário: "Qual o horário do jogo São Paulo x Internacional?"
+Agente: "São Paulo x Internacional será no dia 03/12 às 20h00, transmissão: sem informações."
+Exemplo 3:
+Usuário: "Onde assistir Flamengo x Ceará?"
+Agente: "Flamengo x Ceará será no dia 03/12 às 21h30, transmissão: Globo."
+Exemplo 4 (fora do escopo):
+Usuário: "Qual a previsão do tempo para amanhã?"
+Agente: "Desculpe, só posso responder sobre partidas do Campeonato Brasileiro Série A 2025."
+Você deve responder de maneira gentil, mas objetiva. 
 ```
 
 **Exemplos de perguntas:**
@@ -123,6 +137,7 @@ Se a pergunta não estiver relacionada ao Brasileirão Série A, responda:
 
 **Criação de Storage Account:**
 <img width="1366" height="639" alt="criaçãostorageaccount" src="https://github.com/user-attachments/assets/22702f81-0354-4b46-88a4-b4b567f70181" />
+
 
 **Upload no Container Blob:**
 <img width="1366" height="626" alt="uploadcontainerblob" src="https://github.com/user-attachments/assets/ccac3ad2-61bd-47bd-836d-e07eae32deb0" />
@@ -141,24 +156,6 @@ Se a pergunta não estiver relacionada ao Brasileirão Série A, responda:
 
 
 ---
-
-## 🚀 Como Executar
-
-### Pré-requisitos
-- Conta no Azure.
-- Azure CLI instalado.
-- Git instalado.
-
-### Passos
-1. Clone o repositório:
-```bash
-git clone https://github.com/<usuario>/DataFut.git
-cd DataFut
-```
-2. Abra `web/partidas_brasileirao.html` no navegador.
-3. Configure o agente no Azure Foundry usando o prompt e a URL do JSON com SAS.
-
-
 
 ## 🤖 Desenvolvido com Ajuda do Microsoft Copilot
 Este projeto foi construído com suporte do **Microsoft Copilot**, que auxiliou na geração de código, criação de arquivos e automação das etapas de desenvolvimento, garantindo agilidade e qualidade na entrega.
