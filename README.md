@@ -1,4 +1,4 @@
-# DataFut – Agente Inteligente para Partidas do Brasileirão Série A
+# AgentFutData – Agente Inteligente para Partidas do Brasileirão Série A
 Desafio fruto do curso da Microsoft em parceria com WoMakersCode de estudo sobre Microsoft Azure Foundry.
 
 ## 📌 Objetivo do Projeto
@@ -27,7 +27,7 @@ Este projeto reúne:
 
 ## 📂 Estrutura do Projeto
 ```
-/DataFut
+/AgentFutData
 │
 ├── data/                     # Arquivo JSON com partidas
 ├── web/                      # Interface HTML para visualização
@@ -96,7 +96,7 @@ carregarPartidas();
 ---
 
 ### 3. Criação do Agente no Azure Foundry
-- Nome do agente: **DataFut**.
+- Nome do agente: **AgentFutData**.
 - Função: Responder perguntas sobre partidas do Brasileirão Série A.
 - Fonte de dados: JSON hospedado no Azure Blob Storage com SAS Token.
 
@@ -154,7 +154,7 @@ Você deve responder de maneira gentil, mas objetiva.
 <img width="1366" height="570" alt="criaçãoblobsastoken" src="https://github.com/user-attachments/assets/ec3cc281-bc3d-4ca0-9d55-977fe767ecca" />
 
 
-**Teste do agente DataFut:**
+**Teste do agente AgentFutData:**
 <img width="1349" height="654" alt="testeagenteplayground" src="https://github.com/user-attachments/assets/6feaedcb-3197-41a9-9854-c8f48b2b296f" />
 
 
