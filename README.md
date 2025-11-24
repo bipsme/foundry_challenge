@@ -114,8 +114,21 @@ Se a pergunta não estiver relacionada ao Brasileirão Série A, responda:
 ---
 
 ### 4. Prints das Etapas no Azure Foundry
+**Criação de agente:**
+<img width="1331" height="644" alt="criaçãoagente" src="https://github.com/user-attachments/assets/64eda2da-322a-4d4d-95a6-a6a1aa1848dd" />
+
+**Criação de Storage Account:**
+<img width="1366" height="639" alt="criaçãostorageaccount" src="https://github.com/user-attachments/assets/22702f81-0354-4b46-88a4-b4b567f70181" />
+
+**Upload no Container Blob:**
+<img width="1366" height="626" alt="uploadcontainerblob" src="https://github.com/user-attachments/assets/ccac3ad2-61bd-47bd-836d-e07eae32deb0" />
 
 
+**Upload arquivo JSON na Storage Account:**
+<img width="1366" height="768" alt="uploadjsonblob" src="https://github.com/user-attachments/assets/bbd56c26-2251-4f11-bc16-e29a8bf9d8d4" />
+
+
+**Teste do agente DataFut:**
 ---
 
 ## 🚀 Como Executar
