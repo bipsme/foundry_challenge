@@ -13,12 +13,15 @@ Este projeto reúne:
 
 ## 🛠 Tecnologias Utilizadas
 - **Azure Foundry** (para criação do agente conversacional).
+- **Microsoft Copilot** (para orientação no desenvolvimento, ajuda na criação de prompts e no uso otimizado do Azure Foundry).
 - **Azure Blob Storage** (para hospedar o arquivo JSON com SAS Token).
 - **Azure CLI** (para gerar SAS Token e gerenciar recursos).
 - **GitHub** (para versionamento e documentação).
-- **HTML + JavaScript** (para exibir os dados do JSON).
-- **Microsoft Paint** (para formatação de imagens de printscreen)
-- **Visual Studio Code** (para criação e visualização dos códigos HTML e JSON)
+- **HTML** (para exibir os dados do JSON).
+- **JSON** (para criação do mecanismo de busca e reposta do DataFut).
+- **Microsoft Paint** (para formatação de imagens de printscreen).
+- **Visual Studio Code** (para criação e visualização dos códigos HTML e JSON).
+
 
 ---
 
@@ -156,10 +159,6 @@ Você deve responder de maneira gentil, mas objetiva.
 
 
 ---
-
-## 🤖 Desenvolvido com Ajuda do Microsoft Copilot
-Este projeto foi construído com suporte do **Microsoft Copilot**, que auxiliou na geração de código, criação de arquivos e automação das etapas de desenvolvimento, garantindo agilidade e qualidade na entrega.
-
 ## 📌 Próximos Passos
 - Adicionar filtros no HTML.
 - Criar busca dinâmica.
